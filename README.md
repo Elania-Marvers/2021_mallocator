@@ -1,2 +1,3 @@
-# 2021_mallocator
- This Project represent 89 school mallocator project
+# 2021_tp_mallocator
+
+This tp is my own implementation of malloc function =)
